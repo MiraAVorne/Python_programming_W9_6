@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/o2QcGGke)
 # W9_6
 
 In some scenarios, programs contain unsaved user data, and the user may accidentally do something that typically causes the program to close. In CLI programs, this occurs if the user sends a keyboard interrupt (CTRL + C). Handle the KeyboardInterrupt in a menu-driven program, which collects user-inserted lines.
